@@ -3,7 +3,7 @@ import { FaUser, FaLock } from "react-icons/fa";
 import Header from "../partials/Header";
 
  // Header bileşenini ekleyin
-
+//ekledik.
 // Stil nesnemizi tanımlıyoruz
 const styles = {
     wrapper: {
